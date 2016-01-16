@@ -9,6 +9,7 @@
 *[SW>=210],scan,,,SW,,>=210,,,,,,,,,,
 *[SW>=126],scan,,,SW,,>=126,,,,,,,,,,
 *[SW>=208],scan,,,SW,,>=208,,,,,,,,,,
+*Test pull request
 # ##### Generell #####,,,,,,,,,,,,,,,,
 r,,DisplayedRoomTemp,Raumtemperatur Ist,,,,"8000",,,temp,,,Aktuelle Raumtemperatur,,,
 r,,RoomTemp,Raumisttemp,,,,"0000",,,tempsensor,,,raw value current room temperature and sensorstate (without any correction),,,
